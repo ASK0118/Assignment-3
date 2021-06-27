@@ -1,0 +1,12 @@
+Goh  Male  18  Taman Lombong  019-2938715  SUV  Toyota, Harrier  Thu Jun 17 17:25:01 SGT 2021  10  UUM3333  40.0  400.0  
+________
+Rameesh  Male  21  Taman Pekaka  018-4638270  Sedan  Nissan, Almera  Tue Jun 29 17:25:01 SGT 2021  2  UUM2222  40.0  80.0  
+________
+Amirah  Female  26  Taman Emas  018-4638123  MPV  Nissan, Serena  Sun Jun 06 17:25:01 SGT 2021  30  UUM8888  80.0  2400.0  
+________
+Teoh  Female  23  Taman Perak  018-2142435  SUV  Honda, CR-V  Fri Jun 25 17:25:01 SGT 2021  20  UUM4444  48.0  960.0  
+________
+Fikri  Male  30  Taman Sungai  014-1639721  MPV  Toyota, Vellfire  Mon Sep 13 17:25:01 SGT 2021  50  UUM6666  64.0  3200.0  
+________
+Muhamad  Male  50  Lorong 10  017-8374635  Sedan  Honda, Civic  Sat Sep 25 17:25:01 SGT 2021  35  UUM1111  24.0  840.0  
+________

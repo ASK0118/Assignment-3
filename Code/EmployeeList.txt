@@ -1,0 +1,6 @@
+Ang  Male  21  taman perak  017-2635473  Supervisor  Full Time    2500.0  2325.0  
+________
+Ahmad  Male  22  taman emas  019-2632412  Clerk  Part Time  20  10.0  200.0  
+________
+Tan  Female  22  taman emas  019-2632412  Manager  Full Time    3500.0  3255.0  
+________
