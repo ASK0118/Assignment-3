@@ -1,0 +1,11 @@
+MUST go to admin page and set the value first then the customer page will show the value. If direct go to customer page, it will show ERROR, because admin has not set the value yet.
+
+Admin username: Ang Shu Khai
+Password: angsk
+
+Step 1- Login into admin page
+Step 2- Set value at AdminCompanyBack, Advertisement, AdminVehicleInfo (MUST)
+Step 3- Can log in customer page and all the value are set.
+Step 4- Before go to finance, must complete the customer registration and employee first. Because they need to tranfer sales and salary from customer registration and employee.
+
+Finish. 
